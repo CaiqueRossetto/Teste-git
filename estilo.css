@@ -1,0 +1,17 @@
+caption{
+	border : solid 1px #000;
+	background-color: black;
+	color: red;
+	font-size: 40px;
+}
+
+table {
+	color: black;
+	text-align: center;
+	font-size: 30px;
+	border: solid;
+	background-color: blue;
+}
+thead{
+	background: red;
+}
